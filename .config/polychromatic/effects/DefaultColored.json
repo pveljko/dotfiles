@@ -1,0 +1,175 @@
+{
+    "name": "Default Colored",
+    "type": 3,
+    "author": "",
+    "author_url": "",
+    "icon": "img/devices/keyboard.svg",
+    "summary": "",
+    "map_device": "Razer BlackWidow Elite",
+    "map_device_icon": "keyboard",
+    "map_graphic": "blackwidow_m_keys_en_GB.svg",
+    "map_cols": 22,
+    "map_rows": 6,
+    "save_format": 8,
+    "revision": 1,
+    "fps": 10,
+    "loop": true,
+    "frames": [
+        {
+            "0": {},
+            "1": {
+                "1": "#ffff4c",
+                "2": "#ffff4c",
+                "3": "#ffff4c",
+                "4": "#ffff4c",
+                "5": "#ffff4c",
+                "0": "#ffc04c"
+            },
+            "2": {
+                "1": "#ffff4c",
+                "2": "#ffff4c",
+                "3": "#ffff4c",
+                "4": "#ffff4c",
+                "5": "#ffffff"
+            },
+            "3": {
+                "4": "#ffff4c",
+                "1": "#ffff4c",
+                "2": "#ffff4c",
+                "3": "#ffff4c",
+                "5": "#ffff4c",
+                "0": "#ffc04c"
+            },
+            "4": {
+                "1": "#ffff4c",
+                "2": "#ffff4c",
+                "3": "#ffff4c",
+                "4": "#ffff4c",
+                "0": "#ffc04c"
+            },
+            "5": {
+                "1": "#ffff4c",
+                "2": "#ffff4c",
+                "3": "#ffff4c",
+                "4": "#ffff4c",
+                "0": "#ffc04c",
+                "5": "#ffff4c"
+            },
+            "6": {
+                "2": "#ffff4c",
+                "1": "#ffff4c",
+                "3": "#ffff4c",
+                "4": "#ffff4c",
+                "0": "#ffc04c",
+                "5": "#ffff4c"
+            },
+            "7": {
+                "2": "#ffff4c",
+                "1": "#ffff4c",
+                "3": "#ffff4c",
+                "4": "#ffff4c",
+                "5": "#ffff4c",
+                "0": "#ffc04c"
+            },
+            "8": {
+                "2": "#ffff4c",
+                "1": "#ffff4c",
+                "3": "#b20000",
+                "4": "#ffff4c",
+                "0": "#ffc04c"
+            },
+            "9": {
+                "2": "#00ffff",
+                "1": "#ffff4c",
+                "3": "#cc99ff",
+                "4": "#ffff4c",
+                "0": "#ffc04c"
+            },
+            "10": {
+                "1": "#ffff4c",
+                "2": "#ffff4c",
+                "3": "#4cff4c",
+                "4": "#ffff4c",
+                "0": "#ffc04c"
+            },
+            "11": {
+                "1": "#ffff4c",
+                "2": "#ffff4c",
+                "3": "#ffff4c",
+                "4": "#ffff4c",
+                "5": "#ffff4c",
+                "0": "#ffc04c"
+            },
+            "12": {
+                "1": "#ffff4c",
+                "2": "#ffff4c",
+                "3": "#ffff4c",
+                "4": "#ffff4c",
+                "5": "#ffff4c",
+                "0": "#ffc04c"
+            },
+            "13": {
+                "1": "#ffff4c",
+                "3": "#ffff4c",
+                "2": "#ffff4c",
+                "5": "#ffff4c",
+                "0": "#ffc04c",
+                "4": "#ffff4c"
+            },
+            "14": {
+                "5": "#ffff4c",
+                "4": "#ffff4c",
+                "3": "#ffff4c",
+                "1": "#ffff4c",
+                "0": "#ffc04c",
+                "2": "#ffff4c"
+            },
+            "15": {
+                "1": "#ffff4c",
+                "2": "#ffff4c",
+                "5": "#b20000",
+                "0": "#ffa500"
+            },
+            "16": {
+                "2": "#ffff4c",
+                "1": "#ffff4c",
+                "4": "#00ffff",
+                "5": "#cc99ff",
+                "0": "#ffa500"
+            },
+            "17": {
+                "2": "#ffff4c",
+                "1": "#ffff4c",
+                "5": "#4cff4c",
+                "0": "#ffa500"
+            },
+            "18": {
+                "1": "#ffa500",
+                "4": "#ffff4c",
+                "3": "#ffff4c",
+                "2": "#ffff4c"
+            },
+            "19": {
+                "1": "#ffff4c",
+                "5": "#ffff4c",
+                "4": "#ffff4c",
+                "3": "#ffff4c",
+                "2": "#ffff4c"
+            },
+            "20": {
+                "0": "#00ff00",
+                "1": "#ffff4c",
+                "4": "#ffff4c",
+                "5": "#ffff4c",
+                "3": "#ffff4c",
+                "2": "#ffff4c"
+            },
+            "21": {
+                "1": "#ffff4c",
+                "2": "#ffff4c",
+                "4": "#ffff4c",
+                "0": "#00ff00"
+            }
+        }
+    ]
+}
