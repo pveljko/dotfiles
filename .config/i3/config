@@ -70,7 +70,7 @@ bindsym $mod+d exec --no-startup-id dmenu_run
 bindsym $mod+space exec "rofi -modi drun,run,window -show drun"
 
 #Make a window switcher with rofi
-bindsym $mod+Tab exec "rofi -modi window -show window"
+bindsym $mod+Tab exec "rofi -modi window -show window -window-thumbnail -window-command '/home/veljko/bin/winmove {window}'"
 
 #Start browser
 bindsym $mod+Shift+Return exec firefox
@@ -237,6 +237,8 @@ bindsym $mod+r mode "resize"
 
 ## Use flameshot for screenshots -- remember to disable any bindings left over from Gnome and the like. 
 bindsym Print exec flameshot gui
+
+## 
 
 #Student performance annotator. 
 bindsym $mod+o exec rofi -show op -modi "op:/home/veljko/work/prekvalifikacije/tools/smartAnnotator/comentator.py"
